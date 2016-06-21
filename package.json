@@ -1,0 +1,25 @@
+{
+  "name": "name-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miles-fitzsimons/name-game.git"
+  },
+  "author": "Miles Fitzsimons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miles-fitzsimons/name-game/issues"
+  },
+  "homepage": "https://github.com/miles-fitzsimons/name-game#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "superagent": "^2.0.0"
+  }
+}
